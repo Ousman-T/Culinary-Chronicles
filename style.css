@@ -5,9 +5,11 @@ h1 {
     text-shadow: 1px 1px 2px orange; 
 }
 
-#whodidit {
+#author {
     font-style: italic;
     text-align: center;
+    box-shadow: 3px 3px 5px white;
+
 }
 
 * {
@@ -21,3 +23,5 @@ h1 {
 .dishes {
     color: red;
 }
+
+
